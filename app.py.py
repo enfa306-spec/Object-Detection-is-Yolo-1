@@ -8,7 +8,6 @@ from PIL import Image
 import pandas as pd
 import requests
 from io import BytesIO
-from deepface import DeepFace
 import numpy as np
 
 
