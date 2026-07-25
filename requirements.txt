@@ -4,5 +4,4 @@ opencv-python-headless
 Pillow
 numpy
 pandas
-deepface
-
+requests
